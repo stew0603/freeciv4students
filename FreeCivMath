@@ -1,0 +1,51 @@
+<html>
+<head>
+<style>
+body {
+  background-image: url("https://vignette.wikia.nocookie.net/freeciv/images/7/7a/Options_bg.png/revision/latest/scale-to-width-down/340?cb=20100608215409");
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: #2196F3;
+  padding: 10px;
+}
+.grid-item {
+  background-color: rgba(34, 139, 34, 0.8);
+  border: 10px solid rgba(203, 172, 43, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<h1><a href="index.html">🌎FreeCiv4Students</a></h1>
+
+<h2>FreeCiv and Math</h2>
+
+
+
+</p>So, two catapults walk into a mountain range to fight. The legion from the opposing army says, “I have a 300% increase in defensive strength!” Badoom, cha! FreeCiv humor has a long way to go, but as a tool for teaching math it is already perfect.</p>
+
+</p>Math in FreeCiv ranges from addition and multiplication of whole numbers; working with fractions, percentages and decimals; to calculating area and probability.</p> 
+
+</p>The earliest ship in the game, the trireme, runs the risk of sinking if it doesn’t end its turn near land. What is the probability of losing it in the open ocean? Should you risk crossing the open ocean?</p>
+
+</p>A city has five squares of grassland, with two food output each. What is the total food output for the city?</p>
+
+</p>Is the defensive bonus percentage of mountains enough for a warrior to defeat a tank?</p>
+
+</p>Is it better to build a library in science capital Athens or in production-heavy Athens? Where should the factory go?</p>
+
+</p>If you generate 58 science per turn, how long will it take to research Electronics? How long will it take if you build Isaac Newton’s University?</p>
+
+
+<h2>Here are some articles that teach valuable lessons!<h2>
+
+</p><a href="http://mathmisery.com/wp/2019/08/19/data-analysis-civilization-vi-understanding-unit-combat/">Data Analysis and Unit Combat</a></p>
+
+</p><a
+href="https://civilization.fandom.com/wiki/Mathematics_of_Civilization_V">The Mathematics of Civ5</a></p>
+
